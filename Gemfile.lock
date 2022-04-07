@@ -239,7 +239,7 @@ DEPENDENCIES
   web-console (= 3.5.1)
 
 RUBY VERSION
-   ruby 3.1.0
+   ruby 3.0.0
 
 BUNDLED WITH
    1.17.2
